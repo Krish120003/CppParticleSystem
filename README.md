@@ -18,9 +18,10 @@ This implementation use simple trig equations with randomness to move around par
 
 ## Running
 
-To run this code, make sure you have an appropriate compiler and make installed. Then, you can run the following commands:
+To run this code, make sure you have an appropriate compiler, make and cmake installed. Then, you can run the following commands:
 
 ```
+cmake .
 make
 ./main
 ```
