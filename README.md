@@ -15,3 +15,12 @@ I made this project as an experiment to learn C++ and explore the low level grap
 ## How?
 
 This implementation use simple trig equations with randomness to move around particles in an elegant spiral, cycling through different colors.
+
+## Running
+
+To run this code, make sure you have an appropriate compiler and make installed. Then, you can run the following commands:
+
+```
+make
+./main
+```
