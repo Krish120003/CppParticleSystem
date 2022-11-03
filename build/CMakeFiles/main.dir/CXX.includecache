@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Particle.hpp
+
+../include/Screen.hpp
+SDL2/SDL.h
+-
+
+../include/Swarm.hpp
+Particle.hpp
+../include/Particle.hpp
+
+/home/krish/Documents/Projects/CppParticleSystem/src/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+Screen.hpp
+/home/krish/Documents/Projects/CppParticleSystem/src/Screen.hpp
+Swarm.hpp
+/home/krish/Documents/Projects/CppParticleSystem/src/Swarm.hpp
+

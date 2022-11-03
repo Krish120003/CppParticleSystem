@@ -1,0 +1,2 @@
+/bin/ar qc libPixelAccessScreen.a  CMakeFiles/PixelAccessScreen.dir/src/Screen.cpp.o
+/bin/ranlib libPixelAccessScreen.a

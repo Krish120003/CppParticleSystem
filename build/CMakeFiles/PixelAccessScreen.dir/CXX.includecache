@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krish/Documents/Projects/CppParticleSystem/src/Screen.cpp
+Screen.hpp
+/home/krish/Documents/Projects/CppParticleSystem/src/Screen.hpp
+
